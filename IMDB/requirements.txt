@@ -1,0 +1,13 @@
+torch
+torchmetrics
+torchtyping
+torchvision
+torchtext==0.17.0
+lightning
+matplotlib
+numpy==1.26.4
+pandas
+portalocker>=2.0.0
+tensorboard
+seaborn
+devinterp==0.2.0

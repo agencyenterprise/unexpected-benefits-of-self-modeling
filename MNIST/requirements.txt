@@ -1,0 +1,11 @@
+torch
+torchmetrics
+torchtyping
+torchvision
+lightning
+matplotlib
+numpy==1.26.4
+pandas
+tensorboard
+seaborn
+devinterp==0.2.0
